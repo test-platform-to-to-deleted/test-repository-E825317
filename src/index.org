@@ -1,0 +1,6 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* test-repository
+** [[./introduction-E825317/introduction-E825317.org][Introduction]]
+** [[./objective-E825317/objective-E825317.org][Objective]]
